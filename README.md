@@ -2,11 +2,13 @@
 # Towards Multimodal Lifelong Representation Learning for Growing Knowledge Graphs
 
 ## Overview
-<p align="center">
-  < img src="IndMKG.jpg" alt="IndMKG" width="1000">
-</p >
 
-<p align="center"> The overall architecture of the IndMKG model. </p >
+![image](https://github.com/hncps6/LifeMKG/blob/main/LifeMKG.jpg)
+
+
+
+
+<p align="center"> The overall architecture of the LifeMKG model. </p >
 
 ## 🎆Requirments
 - Python==3.10
